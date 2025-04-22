@@ -1,22 +1,12 @@
-# Regression and Classification Notebook 🧠📊
+This project showcases my ability to perform regression and classification analysis using real-world datasets.
 
-This project demonstrates key machine learning techniques:
+✅ I demonstrate:
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA) through visualizations
+- Implementation of regression and classification models
+- Use of evaluation metrics to validate models
+- Clear explanations of methodology and results
 
-## 🔍 Contents
-- **Regression Analysis**: Explore relationships between variables.
-- **Classification Models**: Predict binary outcomes using algorithms.
-- **Evaluation Metrics**: Understand accuracy, precision, recall, F1-score.
+📌 This notebook is a reflection of my growing skills in applied machine learning and data storytelling.
 
-## 📁 File
-- `Merged_Notebook.ipynb`: Jupyter notebook containing regression and classification examples with analysis.
-
-## 🛠️ Tools & Libraries
-- Python (scikit-learn, pandas, matplotlib)
-- Jupyter Notebook
-
-## 📈 Outcome
-This notebook showcases my proficiency in:
-- Exploratory data analysis (EDA)
-- Model training and evaluation
-- Data visualization
 
